@@ -9,11 +9,11 @@ The retailing industry is an evolving choreography of customer experience, suppl
 - Generate adaptive demand-forecasting narratives that combine predictive analytics with scenario storytelling, helping teams plan SKUs and fulfillment strategies for uncertain seasons.
 
 
-# Prompt
-# create content for assistant_draft.md.   The file should contain: - a short title - one short paragraph introducing me, (use the details from my cv that i just uploaded)  - one short paragraph describing retailing industry -  creat one short bullet list of 3 ways generative AI might be useful in that area.
+## Prompt
+### create content for assistant_draft.md.   The file should contain: - a short title - one short paragraph introducing me, (use the details from my cv that i just uploaded)  - one short paragraph describing retailing industry -  creat one short bullet list of 3 ways generative AI might be useful in that area.
 
-# what the assistant did well?
-# The AI coding assistant has a good understanding of all the tasks and has written the content in the correct format. And it can obtain and summarize information from the pdf and prompt I provided. And complete sufficient extended text from the simple requirements.
+## what the assistant did well?
+### The AI coding assistant has a good understanding of all the tasks and has written the content in the correct format. And it can obtain and summarize information from the pdf and prompt I provided. And complete sufficient extended text from the simple requirements.
 
-# Needed to clarify or adjust
-# The logic of the output text content is not perfect or the content is rather disordered and disorderly, and it cannot be as clear in hierarchy as the text written by humans.
+## Needed to clarify or adjust
+### The logic of the output text content is not perfect or the content is rather disordered and disorderly, and it cannot be as clear in hierarchy as the text written by humans.
