@@ -16,4 +16,8 @@ The retailing industry is an evolving choreography of customer experience, suppl
 ### The AI coding assistant has a good understanding of all the tasks and has written the content in the correct format. And it can obtain and summarize information from the pdf and prompt I provided. And complete sufficient extended text from the simple requirements.
 
 ## Needed to clarify or adjust
+<<<<<<< Updated upstream
 ### The logic of the output text content is not perfect or the content is rather disordered and disorderly, and it cannot be as clear in hierarchy as the text written by humans.
+=======
+### The logic of the output text content is not perfect or the content is rather disordered and disorderly, and it cannot be as clear in hierarchy as the text written by humans.
+>>>>>>> Stashed changes
